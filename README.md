@@ -933,7 +933,7 @@ https://github.com/tusharaitechie/Q_and_A_RAG_Document
 
 # 👨‍💻 Author
 
-**Tushar Nile**
+**Tushar**
 
 Software Engineer | AI/ML & Generative AI Enthusiast
 
